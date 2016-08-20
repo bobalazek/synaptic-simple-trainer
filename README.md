@@ -1,8 +1,13 @@
 # Synaptic Simple Trainer
 A ready to go text classification trainer based on synaptic
 
+## Installation
+```cmd
+npm install synaptic-simple-trainer --save
+```
+
 ## How to use
-For now, please view the /example folder 
+For now, please view the /example folder.
 
 ## Todo
 * documentation
