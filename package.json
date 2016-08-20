@@ -1,6 +1,6 @@
 {
   "name": "synaptic-simple-trainer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A ready to go text classification trainer based on synaptic",
   "main": "lib/index.js",
   "scripts": {
