@@ -7,7 +7,7 @@ npm install synaptic-simple-trainer --save
 ```
 
 ## How to use
-For now, please view the /example folder.
+For now, please view the `/example` folder.
 
 ## Todo
 * documentation
