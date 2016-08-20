@@ -1,0 +1,26 @@
+{
+  "name": "synaptic-simple-trainer",
+  "version": "0.1.0",
+  "description": "A ready to go text classification trainer based on synaptic",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobalazek/synaptic-simple-trainer.git"
+  },
+  "author": "Borut Balazek <bobalazek124@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bobalazek/synaptic-simple-trainer/issues"
+  },
+  "homepage": "https://github.com/bobalazek/synaptic-simple-trainer",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "moment": "^2.13.0",
+    "natural": "^0.4.0",
+    "synaptic": "^1.0.8",
+    "word2vec": "~1.0.0"
+  }
+}
