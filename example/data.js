@@ -1,7 +1,7 @@
 var data = {
     train: [
         {
-            text: 'this was a great movie',
+            text: 'this was a really great movie',
             class: 'positive',
         },
         {
@@ -50,6 +50,16 @@ var data = {
         },
         {
             text: 'I did not liked the movie',
+            class: 'negative',
+        },
+    ],
+    train_new: [
+        {
+            text: 'good movie',
+            class: 'positive',
+        },
+        {
+            text: 'bad movie',
             class: 'negative',
         },
     ],
